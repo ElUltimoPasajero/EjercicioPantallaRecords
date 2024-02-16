@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147841859836",
+    "project_id": "duck-hunt-b29d3",
+    "storage_bucket": "duck-hunt-b29d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147841859836:android:c33dfd91b9b4a96ec11779",
+        "android_client_info": {
+          "package_name": "com.jlara.ud12ej01_solucion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNmiDVxJ6DuJKk_yKWfrCV6XmEZ0KutDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
